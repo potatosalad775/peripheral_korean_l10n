@@ -13,4 +13,4 @@ Zuoya GMK67 키보드 소프트웨어를 한국어화하는 간단한 패치입�
 
 ZUOYA GMK67 Software 1.0.0.0 (Portable) - [DOWNLOAD](https://drive.google.com/file/d/1m6CK0cwpE-pXFWYOmBw3dIw-b7E5bHwq/view?usp=sharing)
 
-해당 한국어화 패치에는 [본고딕(Noto Sans KR)](fonts.google.com/specimen/Noto+Sans+KR)이 사용되었습니다.
+해당 한국어화 패치에는 [본고딕(Noto Sans KR)](https://fonts.google.com/specimen/Noto+Sans+KR)이 사용되었습니다.
