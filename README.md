@@ -8,3 +8,5 @@ A collection of Korean localization patches for various peripheral software
 ## List of Devices / 기기 목록
 
 * [Zuoya GMK67](zuoya-gmk67)
+* [Vancer Gemini](vancer-gemini)
+* [Vancer Gemini Pro](vancer-gemini-pro)
